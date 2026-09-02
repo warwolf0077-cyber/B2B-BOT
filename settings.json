@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "B2B",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "b2b.mcsh.io",
