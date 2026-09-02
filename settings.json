@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pxpp.mcsh.io",
+    "ip": "b2b.mcsh.io",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
@@ -36,7 +36,7 @@
         "yoo"
       ]
     },
-    "chat-log": true,
+    "chat-log": false,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
